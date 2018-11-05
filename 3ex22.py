@@ -27,4 +27,4 @@
 # variable.close <-- closes the file
 # len() <-- gets length of string that you pass to it and returns that as a number
 # def variable: <-- a way to define functions
-# f.seek(any number) <-- seek means it opens a file to whatever point in bytes to read or write at that pointself.
+# f.seek(any number) <-- seek means it opens a file to whatever point in bytes to read or write at that point.
